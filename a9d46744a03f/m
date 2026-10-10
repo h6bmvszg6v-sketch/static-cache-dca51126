@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<App>
+  <id>1</id>
+  <name>Dangus Launcher</name>
+  <packageName>com.dangus.launcher</packageName>
+  <versionName>1.0.101</versionName>
+  <url>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-dca51126/main/a9d46744a03f/pkg.apk</url>
+  <md5Value>8aafe98cabb7b902774b4e6353c94f88</md5Value>
+  <forceUpdate>0</forceUpdate>
+  <note></note>
+</App>
