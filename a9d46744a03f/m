@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<App>
+  <id>1</id>
+  <name>Dangus Launcher</name>
+  <packageName>com.dangus.launcher</packageName>
+  <versionName>1.0.144</versionName>
+  <url>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-dca51126/main/a9d46744a03f/pkg.apk</url>
+  <md5Value>bce51614c1265423666b77a19e61f768</md5Value>
+  <forceUpdate>1</forceUpdate>
+  <note>- Temporizador: ahora funciona en cualquier TV
+- Si la TV no se deja apagar, queda en negro y sin sonido
+- Cualquier botón la vuelve a encender</note>
+</App>
