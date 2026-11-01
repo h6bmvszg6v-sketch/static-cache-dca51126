@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<App>
+  <id>1</id>
+  <name>Dangus Launcher</name>
+  <packageName>com.dangus.launcher</packageName>
+  <versionName>1.0.182</versionName>
+  <url>https://raw.githubusercontent.com/h6bmvszg6v-sketch/static-cache-dca51126/main/a9d46744a03f/pkg.apk</url>
+  <md5Value>bb8e503d23893d360b3cabefb67a86a1</md5Value>
+  <forceUpdate>1</forceUpdate>
+  <note>- Nuevo menú de ajustes
+- Protector de pantalla propio, con clima
+- 10 fondos de Chile
+- Inicio más estable y arreglo en sticks</note>
+</App>
